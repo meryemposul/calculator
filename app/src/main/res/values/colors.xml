@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="black_two">#0D000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="lightyellow">#FFFFE0</color>
+    <color name="peachpuff">#FFDAB9</color>
+    <color name="gold">#FFD700</color>
+    <color name="pink">#E91E63</color>
+    <color name="orangered">#FF4500</color>
+    <color name="lightskyblue">#87CEFA</color>
+    <color name="skyblue">#87CEEB</color>
+    <color name="seffaf_siyah_yuzde_95">#F2000000</color>
+    <color name="DarkGreen">#006400</color>
+    <color name="purple">#800080</color>
+</resources>
